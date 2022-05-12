@@ -2,7 +2,7 @@
 
 <b> 1) This application is based on MVVM design architecture (100% in Kotlin) </b> </br>
 
-<b> 2) This application retrieves product data from a remote data source + successfully displays rating up to 1 decimal place. (REST-API: https://api.wayfair.io/interview-sandbox/android/json-to-list/products.v1.json). </b> </br>
+<b> 2) This application retrieves product data from a remote data source (REST-API: https://api.wayfair.io/interview-sandbox/android/json-to-list/products.v1.json) + successfully displays rating up to 1 decimal place. </b> </br>
 <img width="237" alt="rest-api" src="https://user-images.githubusercontent.com/26533575/168143298-507e94ad-7ee5-4f48-b461-61b29a511232.png">
 
 <b> 3) This application has a progress-bar to notify the user when there is network connection attempt. </b> </br>
