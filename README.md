@@ -21,7 +21,7 @@
 
 <b> 8) THIS APPLICAITON SUPPORTS CACHING (based on SINGLE SOURCE OF TRUTH PRINCIPLE) </b> </br>
 
-<b> 8) THIS APPLICAITON has been tested by emulators as well as physical devices. </b> </br>
+<b> 9) THIS APPLICAITON has been tested by emulators as well as physical devices. </b> </br>
 
 <b> ------------PLEASE CLEAN THE PROJECT + REBUILD THE PROJECT BEFORE running the application---------------- </b>
 
