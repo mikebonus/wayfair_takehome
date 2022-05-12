@@ -9,6 +9,7 @@ import com.wayfairproduct.takehome.databinding.ActivityProductBinding
 import com.wayfairproduct.takehome.util.Resource
 import com.wayfairproduct.takehome.viewmodel.ProductViewModel
 import dagger.hilt.android.AndroidEntryPoint
+import kotlinx.android.synthetic.main.activity_product.*
 
 @AndroidEntryPoint
 class ProductActivity : AppCompatActivity() {
@@ -39,4 +40,10 @@ class ProductActivity : AppCompatActivity() {
 
         }
     }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        recycler_view.adapter = null
+    }
+
 }
